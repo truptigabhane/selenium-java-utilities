@@ -1,0 +1,4 @@
+23,add,45
+56,subtract,6
+34,divide,14
+23,multiply,4

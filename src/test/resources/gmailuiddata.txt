@@ -1,0 +1,3 @@
+magnitiait,valid
+magnitianonit,invalid
+,blank
