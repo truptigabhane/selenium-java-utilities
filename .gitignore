@@ -1,0 +1,16 @@
+# Maven generated files
+target/
+
+# Test execution reports
+test-output/
+
+# Allure generated results
+allure-results/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Logs
+*.log

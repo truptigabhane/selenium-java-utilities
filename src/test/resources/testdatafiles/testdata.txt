@@ -1,0 +1,5 @@
+abdulkalam,random-email,123Qwer,all_valid
+abdulkalam,magnitiait@gmail.com,123Qwer,duplicate_email
+,random-email,123Qwer,uname_blank
+abdulkalam,,123Qwer,email_blank
+abdulkalam,random-email,,pwd_blank
